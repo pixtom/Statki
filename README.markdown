@@ -20,6 +20,8 @@ Mozliwosci wyboru:
 
 Pkt 1 oraz pkt 3 - Liderzy grupy tj. Wójtowicz Tomasz i Tasak Mariusz.
 
+Pkt 4 Dariusz Sokołowski
+
 Application [*Statki*] - nazwa robocza :)
 
 by [Wojtowicz Tomasz, Tasak Mariusz] - dopisywać się
