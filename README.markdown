@@ -20,9 +20,13 @@ Mozliwosci wyboru:
 
 Pkt 1 oraz pkt 3 - Liderzy grupy tj. Wójtowicz Tomasz i Tasak Mariusz.
 
+Pkt 2 Adam Kania
+
 Pkt 4 Dariusz Sokołowski
 
 Pkt 6 Dorota Smorawa
+
+Pkt 7 Pawel Jalocha
 
 Application [*Statki*] - nazwa robocza :)
 
