@@ -1,11 +1,23 @@
 package statki;
 
-/**
- * @author daro ;)
- */
 
-void cos();
 
 public class Chat {
+
+    public void send()
+    {
+
+    }
+
+    public void print()
+    {
+
+    }
+
+    public void recive()
+    {
+
+    }
+    
 
 }
