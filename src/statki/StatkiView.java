@@ -94,6 +94,7 @@ public class StatkiView extends JFrame {
 
         msgArea = new JTextArea();
         msgArea.setBounds(20, 340, 530, 150);
+        msgArea.setEditable(false);
 
         sendField = new JTextField();
         sendField.setBounds(20, 500, 530, 30);
