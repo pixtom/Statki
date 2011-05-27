@@ -24,7 +24,7 @@ Pkt 2 Adam Kania
 
 Pkt 4 Dariusz Sokołowski
 
-Pkt 5 Tomasz Sowa
+Pkt 5 Tomasz Sowa   
 
 Pkt 6 Dorota Smorawa
 
